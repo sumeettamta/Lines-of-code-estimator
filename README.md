@@ -17,4 +17,4 @@ npm run start
 ## Application Details
 
 This application is used to calculate blank, comments , code, total line in any code file.
-Currently it can support python, c, c++,javascript, java programming file for testing. This we can extend for any new programming language just add the details in config file. 
+Currently it can support python, c, c++,javascript, java programming file for testing. This we can extend for any new programming language just add the details in config file and for testing you can add the file in the current directory and just change the fileName in config.ts
